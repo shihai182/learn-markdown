@@ -8,7 +8,7 @@ This is  a **bold** *italic* text sample.
 
 This is  a __bold__  text sample.
 
-This  is a [hyperlink](https://github.com/)
+This  is a [hyperlink](More.md)
 --- 
 
 > 滚动浏览所有打开的App：按住Command 键，按下Tab 键，然后按下左箭头键或右箭头键直至导航到您想要的App。 松开Command 键。 如果您在滚动浏览App 时改变主意而不想切换App，请按下Esc (Escape) 或句点键，然后松开Command 键。
@@ -35,6 +35,7 @@ print('Hello world!')
 §env:Path
 ```
 
-<img scr="https://i.loli.net/2020/01/04/bjEiZCfFUpnBh47.jpg"/>
+
+![山峰 ](https://i.loli.net/2020/01/04/ZkIaDNGlTf6WUrx.png)
 
 
